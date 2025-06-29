@@ -1,4 +1,4 @@
-// Sample product data
+// Product data array
 const products = [
   {
     name: "Matte Lipstick",
